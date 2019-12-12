@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.style-cot {
+	font: normal Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: darkblue;
+	font-size: 34;
+	display: block;
+	text-align: center;
+}
